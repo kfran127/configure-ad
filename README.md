@@ -13,8 +13,16 @@
   <li>First, I created a new resource group in the Azure Portal to organize my resources for the lab.</li>
   <li>Then, I set up a virtual network with a subnet that will host both the Domain Controller (DC-1) and the client machine (Client-1).</li>
 </ul>
+
+
+
+
 <p align="center">
-  <img src="IMAGE_URL_HERE" alt="Creating Resource Group and Virtual Network" width="80%">
+  <img src="https://github.com/user-attachments/assets/febb8a2c-43d1-4235-bb2b-633326f0edac" alt="Creating Resource Group and Virtual Network" width="80%">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c63019b8-7327-4327-aee3-ee54e0b5de1d" alt="Creating Resource Group and Virtual Network" width="80%">
 </p>
 
 <p><strong>Step 2: Create Domain Controller (DC-1)</strong></p>
