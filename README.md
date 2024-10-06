@@ -171,6 +171,9 @@
   <img src="https://github.com/user-attachments/assets/f17ae2c7-5178-4989-8250-6c77761242b9" alt="Configuring Account Lockout Policy" width="80%">
 </p>
 
+</p><p align="center">
+  <img src="https://github.com/user-attachments/assets/52b2b089-c4ac-4223-9425-c54d36eb6d81" alt="Configuring Account Lockout Policy" width="80%">
+</p>
 
 
 
