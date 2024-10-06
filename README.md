@@ -161,8 +161,18 @@
   <li>I tested this by attempting to log in with an incorrect password multiple times, triggering the lockout, and then unlocked the account in Active Directory.</li>
 </ul>
 <p align="center">
-  <img src="IMAGE_URL_HERE" alt="Configuring Account Lockout Policy" width="80%">
+  <img src="https://github.com/user-attachments/assets/eab6289c-af3a-4bf3-870f-dcf03e10e8df" alt="Configuring Account Lockout Policy" width="80%">
 </p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fdc22ce5-051a-44ca-a2f3-e2f3126f2ade" alt="Configuring Account Lockout Policy" width="80%">
+
+</p><p align="center">
+  <img src="https://github.com/user-attachments/assets/f17ae2c7-5178-4989-8250-6c77761242b9" alt="Configuring Account Lockout Policy" width="80%">
+</p>
+
+
+
 
 <p><strong>Step 10: Monitor Logs</strong></p>
 <ul>
