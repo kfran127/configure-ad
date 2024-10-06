@@ -113,7 +113,9 @@
   <img src="https://github.com/user-attachments/assets/f0b5e7c2-3ab3-4319-8aba-6a8fd1041587" alt="Joining Client-1 to Domain" width="80%">
 </p>
 
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f7d68ad7-20f9-40a1-9ece-164e67987ba5"alt="Joining Client-1 to Domain" width="80%">
+</p>
 
 <h2>Part 4: Setting Up Remote Desktop and Creating Additional Users</h2>
 
