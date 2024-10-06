@@ -183,8 +183,14 @@
   <li>This demonstrated the importance of logging and monitoring in security operations, a critical skill for network management.</li>
 </ul>
 <p align="center">
-  <img src="IMAGE_URL_HERE" alt="Monitoring Logs" width="80%">
+  <img src="https://github.com/user-attachments/assets/05d538f6-3a4a-4f23-be79-3f5496534b42" alt="Monitoring Logs" width="80%">
 </p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e5f19c88-6fb3-40e2-80fa-eeb6566e93cd" alt="Monitoring Logs" width="80%">
+</p>
+
+
 
 <h2>Conclusion</h2>
 <p>I successfully set up Active Directory within Azure Virtual Machines. This lab allowed me to practice configuring a Domain Controller, joining a client machine to the domain, managing user accounts, and enabling Remote Desktop access. These configurations are essential in real-world IT environments for ensuring secure and efficient user management.</p>
