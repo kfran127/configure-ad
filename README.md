@@ -121,22 +121,37 @@
 
 <p><strong>Step 7: Enable Remote Desktop for Non-Admin Users</strong></p>
 <ul>
-  <li>Logging into Client-1 as <strong>mydomain.com\jane_admin</strong>, I enabled Remote Desktop access for domain users under System Properties.</li>
+  <li>Logging into Client-1 as <strong>mydomain.com\pablo_davis</strong>, I enabled Remote Desktop access for domain users under System Properties.</li>
   <li>This allows non-administrative users to remotely access Client-1.</li>
 </ul>
 <p align="center">
-  <img src="IMAGE_URL_HERE" alt="Setting Up Remote Desktop" width="80%">
+  <img src="https://github.com/user-attachments/assets/37931436-df88-447d-8512-60622493508b" alt="Setting Up Remote Desktop" width="80%">
 </p>
+
+
+
+
 
 <p><strong>Step 8: Create Additional Users in Active Directory</strong></p>
 <ul>
-  <li>Returning to DC-1, I logged in as <strong>jane_admin</strong> and opened PowerShell ISE as an administrator to run a script that created multiple user accounts.</li>
+  <li>Returning to DC-1, I logged in as <strong>pablo_davis</strong> and opened PowerShell ISE as an administrator to run a script that created multiple user accounts.</li>
   <li>Once the accounts were created, I observed them in the <strong>_EMPLOYEES</strong> OU within ADUC.</li>
-  <li>I tested one of the newly created accounts by logging into Client-1.</li>
+  <li>I tested one of the newly created accounts (bam.wed) by logging into Client-1.</li>
 </ul>
 <p align="center">
-  <img src="IMAGE_URL_HERE" alt="Creating Additional Users" width="80%">
+  <img src="https://github.com/user-attachments/assets/202d39d3-d14a-4aeb-ae21-29d22060a340" alt="Creating Additional Users" width="80%">
 </p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/96775b63-876f-43e6-99aa-6cf24a6ca4a5" alt="Creating Additional Users" width="80%">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/697d6d87-cdcd-43ef-9b43-ae8c9bddca53" alt="Creating Additional Users" width="80%">
+</p>
+
+
+
 
 <h2>Part 5: Managing Account Lockouts and Monitoring Logs</h2>
 
