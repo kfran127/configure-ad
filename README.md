@@ -62,6 +62,11 @@
   <img src="https://github.com/user-attachments/assets/be01001e-02f2-427f-b61e-2ff2a4afa27d" alt="Creating Client VM" width="80%">
 </p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/78fb615b-99c0-4f72-9a55-ed4710ab1d77" alt="Creating Client VM" width="80%">
+</p>
+
+
 
 <h2>Part 2: Installing and Configuring Active Directory</h2>
 
@@ -72,18 +77,29 @@
   <li>I restarted DC-1 and logged back in using <strong>mydomain.com\labuser</strong> to continue configuration.</li>
 </ul>
 <p align="center">
-  <img src="IMAGE_URL_HERE" alt="Installing AD DS on DC-1" width="80%">
+  <img src="https://github.com/user-attachments/assets/7ed8a091-27cf-4e91-b962-071252f13986" alt="Installing AD DS on DC-1" width="80%">
 </p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4016ca2f-712a-4a2d-9db4-933a6606aeb3" alt="Installing AD DS on DC-1" width="80%">
+</p>
+
+
 
 <p><strong>Step 5: Create a Domain Admin User</strong></p>
 <ul>
   <li>Using Active Directory Users and Computers (ADUC), I created an Organizational Unit (OU) called <strong>_ADMINS</strong>.</li>
-  <li>I created a new user named <strong>jane_admin</strong> with the password <strong>Cyberlab123!</strong>, and added her to the <strong>Domain Admins</strong> security group.</li>
-  <li>Finally, I logged out and logged back in as <strong>mydomain.com\jane_admin</strong>, which I will use as my admin account going forward.</li>
+  <li>I created a new user named <strong>pablo_davis</strong> with the password <strong>Cyberlab123!</strong>, and added her to the <strong>Domain Admins</strong> security group.</li>
+  <li>Finally, I logged out and logged back in as <strong>mydomain.com\pablo_davis</strong>, which I will use as my admin account going forward.</li>
 </ul>
 <p align="center">
-  <img src="IMAGE_URL_HERE" alt="Creating Domain Admin User" width="80%">
+  <img src="https://github.com/user-attachments/assets/6a413707-bd21-4419-a008-e3c3db826127" alt="Creating Domain Admin User" width="80%">
 </p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/175e1dd8-8f4a-4a77-8270-7b7fb4114e4f" alt="Creating Domain Admin User" width="80%">
+</p>
+
 
 <h2>Part 3: Joining Client-1 to the Domain</h2>
 
@@ -94,8 +110,10 @@
   <li>Within ADUC, I created a new OU named <strong>_CLIENTS</strong> and moved Client-1 into it for proper organization.</li>
 </ul>
 <p align="center">
-  <img src="IMAGE_URL_HERE" alt="Joining Client-1 to Domain" width="80%">
+  <img src="https://github.com/user-attachments/assets/f0b5e7c2-3ab3-4319-8aba-6a8fd1041587" alt="Joining Client-1 to Domain" width="80%">
 </p>
+
+
 
 <h2>Part 4: Setting Up Remote Desktop and Creating Additional Users</h2>
 
