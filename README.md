@@ -179,16 +179,18 @@
 
 <p><strong>Step 10: Monitor Logs</strong></p>
 <ul>
-  <li>To wrap things up, I observed the logs on both DC-1 and Client-1 to monitor login attempts and other activities.</li>
-  <li>This demonstrated the importance of logging and monitoring in security operations, a critical skill for network management.</li>
+  <li>To conclude, I used <strong>Event Viewer</strong> on both DC-1 and Client-1 to monitor login attempts and other key activities.</li>
+  <li>In the <strong>Security</strong> logs, I filtered for failed login attempts (Event ID 4625) and successful logoffs (Event ID 4634) related to the test account "bam.wed".</li>
+  <li>This allowed me to view important details such as the time, user, and event specifics.</li>
+  <li>By monitoring these logs, I reinforced the importance of log tracking in security operations and network management.</li>
 </ul>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/05d538f6-3a4a-4f23-be79-3f5496534b42" alt="Monitoring Logs" width="80%">
 </p>
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e5f19c88-6fb3-40e2-80fa-eeb6566e93cd" alt="Monitoring Logs" width="80%">
 </p>
+
 
 
 
