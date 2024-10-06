@@ -25,6 +25,7 @@
   <img src="https://github.com/user-attachments/assets/c63019b8-7327-4327-aee3-ee54e0b5de1d" alt="Creating Resource Group and Virtual Network" width="80%">
 </p>
 
+
 <p><strong>Step 2: Create Domain Controller (DC-1)</strong></p>
 <ul>
   <li>Next, I created a Windows Server 2022 VM named <strong>DC-1</strong> in the Azure Portal.</li>
@@ -33,8 +34,18 @@
   <li>Once I logged into the VM, I disabled the Windows Firewall temporarily for testing connectivity purposes.</li>
 </ul>
 <p align="center">
-  <img src="IMAGE_URL_HERE" alt="Creating Domain Controller" width="80%">
+  <img src="https://github.com/user-attachments/assets/db00c4e8-d807-41a5-a342-d684ac2cb4d4" alt="Creating Domain Controller" width="80%">
 </p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a287d57a-f675-4700-9e0b-d5e1935a2e50" alt="Creating Resource Group and Virtual Network" width="80%">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2fda670c-aa47-447d-8602-e681169db750" alt="Creating Resource Group and Virtual Network" width="80%">
+</p>
+
+
 
 <p><strong>Step 3: Create Client VM (Client-1)</strong></p>
 <ul>
@@ -44,8 +55,13 @@
   <li>After restarting Client-1 from the Azure Portal, I logged in and pinged DC-1’s private IP address to confirm connectivity.</li>
 </ul>
 <p align="center">
-  <img src="IMAGE_URL_HERE" alt="Creating Client VM" width="80%">
+  <img src="https://github.com/user-attachments/assets/025152d9-0bfa-4cdc-b2b0-ac72b1ba9818" alt="Creating Client VM" width="80%">
 </p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/be01001e-02f2-427f-b61e-2ff2a4afa27d" alt="Creating Client VM" width="80%">
+</p>
+
 
 <h2>Part 2: Installing and Configuring Active Directory</h2>
 
